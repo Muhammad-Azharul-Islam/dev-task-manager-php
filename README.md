@@ -80,7 +80,7 @@ TechFlow/
 
 2. **Installation**
    - Clone the repository to your web server directory
-   - Create a MySQL database named `techflow`
+   - Create a MySQL database named `project_management`
    - Import the database schema from `database.sql`
    - Configure database connection in `config/database.php`
    - Ensure the `assets/uploads` directory is writable
