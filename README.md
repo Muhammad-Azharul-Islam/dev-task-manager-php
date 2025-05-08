@@ -41,34 +41,6 @@ TechFlow is a comprehensive project management system designed to help businesse
   - Tailwind CSS for styling
   - jQuery for AJAX and DOM manipulation
 
-## Directory Structure
-
-```
-TechFlow/
-├── api/                    # API endpoints
-├── assets/                 # Static assets
-│   ├── css/               # CSS files
-│   ├── js/                # JavaScript files
-│   └── uploads/           # Uploaded files (profile pictures)
-├── classes/               # PHP classes
-│   ├── Database.php
-│   ├── Project.php
-│   ├── User.php
-│   └── Feedback.php
-├── config/                # Configuration files
-│   └── database.php
-├── dashboard/             # Dashboard pages
-│   ├── index.php
-│   ├── projects.php
-│   └── profile.php
-├── includes/              # Reusable components
-│   ├── header.php
-│   └── footer.php
-├── index.php             # Home page
-├── login.php             # Login page
-├── register.php          # Registration page
-└── README.md             # Project documentation
-```
 
 ## Setup Instructions
 
